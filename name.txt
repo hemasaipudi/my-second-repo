@@ -1,0 +1,3 @@
+My name is P.Hema Sai
+Course:BCA
+DevOps is a software development approach that emphasizes collaboration between development and operations teams to automate and streamline the software development lifecycle, leading to faster, more reliable releases.  
